@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'MyWebFont';
+    src: url('WebFont.eot?iefix') format('eot'),
+    url('Distant-Galaxy-fontfacekit/web fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.woff') format('woff'),
+    url('Distant-Galaxy-fontfacekit/web fonts/distantgalaxy_regular_macroman/DISTGRG_-webfont.svg#webfont') format('svg');
+}
+
+h1 { font-family: 'MyWebFont', Arial, sans-serif;
+    color: #FFE81F;
+}
+body {
+    background-color: black;
+}
+p {
+    font-family: 'Roboto Slab', serif;
+    color: #FFE81F;
+
+}
