@@ -1,5 +1,5 @@
 LOCAL
-# Projet-Wild-Series
+# Project-Wild-Series
 
 ## Colors
 
